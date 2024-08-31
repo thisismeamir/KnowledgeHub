@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#6d2fca",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "IBM Plex Sans",
+  "textFontFamily": "IBM Plex Sans",
+  "monospaceFontFamily": "IBM Plex Mono",
+  "baseFontSize": 28,
+  "baseFontSizeAction": true
+}

@@ -118,5 +118,3 @@ $$
 $$
 
 In the $R_\xi$ gauges the $\chi$ field is the part of the spectrum and has mass $M^2_\chi = \xi M^2_A$. Feynman gauge corresponde to the choice $\xi =1$ and massless Goldstone bosons with no coupling to the physical Higgs boson. The Landau gauge is often the most convenient for calculations involving the Higgs boson since there is no coupling to the unphysical $\chi$ field.
-
-#HiggsModels #ParticlePhysics

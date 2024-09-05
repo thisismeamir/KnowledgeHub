@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a5c46c51bec5aa56",
+        "id": "6a8ef38dac25eb10",
         "type": "tabs",
         "children": [
           {
-            "id": "0a62c51b84e31ee7",
+            "id": "d5fe31f9ffd6130a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0a62c51b84e31ee7",
+  "active": "d5fe31f9ffd6130a",
   "lastOpenFiles": [
-    "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Untitled.md",
+    "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Higgs Boson Essentials.md",
+    "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Symmetry Breaking Methods.md",
+    "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Goldstone's Theorem.md",
+    "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Local Gauge Symmetries and Gauge Fields.md",
+    "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Weak Nuclear Force and the SU(2) Model.md",
+    "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Gauge Invariance.md",
+    "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Quantum Electrodynamics and U(1) Model.md",
     "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Abelian Higgs Model.md",
+    "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Gauge Theory.md",
+    "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Noether's Theorem.md",
+    "Gauge Theory",
     "Particle Physics/Analysis of Higgs Production Channels at the Future Circular Collider (FCC)/Weinberg-Salam Model.md",
     "Untitled.canvas",
     "2024-08-30.md",
